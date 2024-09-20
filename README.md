@@ -1,5 +1,6 @@
 # Sales-Dashboard-Using-Power-Bi
-
+![image](https://github.com/user-attachments/assets/5787157c-ba70-4705-9fe0-781262532b6a)
+# Sales Dashboard
 ## Objective
 
 The primary objective of this SuperStore Sales Analysis is to provide valuable insights and recommendations to support the supermarket's goals for growth, efficiency, and customer satisfaction. This involves designing an intuitive and interactive Power BI dashboard that allows users to explore data at various levels of granularity and identifies key performance indicators (KPIs) to drive strategic decision-making.
@@ -55,11 +56,9 @@ In this project, advanced data analysis techniques, specifically time series ana
 ## Dashboard Design
 
 The Power BI dashboard was designed with a user-friendly interface, allowing stakeholders to interact with the data easily. Filters and slicers were incorporated to enable exploration at different levels of granularity. Visualizations, such as line charts, bar graphs, and maps, were utilized to present the insights visually.
-![image](https://github.com/user-attachments/assets/5787157c-ba70-4705-9fe0-781262532b6a)
-#Sales Dashboard
-![image](https://github.com/user-attachments/assets/0b7f473d-99f9-47cf-b6cc-9d8a993e8cbb)
-#Sales Forcast
 
+![image](https://github.com/user-attachments/assets/0b7f473d-99f9-47cf-b6cc-9d8a993e8cbb)
+# Sales Forcast
 
 ## Conclusion
 
