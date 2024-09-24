@@ -1,4 +1,4 @@
-# Sales-Dashboard-Using-Power-Bi
+# Sales-Data-Analysis-Using-Power-Bi
 ![image](https://github.com/user-attachments/assets/5787157c-ba70-4705-9fe0-781262532b6a)
 *Sales Dashboard*
 ## Objective
