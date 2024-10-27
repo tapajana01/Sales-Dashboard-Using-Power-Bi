@@ -8,7 +8,7 @@ The primary objective of this SuperStore Sales Analysis is to provide valuable i
 ## Task Overview
 
 ### Identify KPIs:
-- Total Sales
+- Total Sales.
 - Total Profit
 - Number of Orders.
 - Average Delivery Days.
