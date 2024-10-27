@@ -11,7 +11,7 @@ The primary objective of this SuperStore Sales Analysis is to provide valuable i
 - Total Sales
 - Total Profit
 - Number of Orders
-- Average Delivery Days
+- Average Delivery Days.
 
 ### Monthly Sales and Profit YOY:
 - Visualize and compare monthly sales and profit on a Year-Over-Year (YOY) basis to identify trends and patterns.
